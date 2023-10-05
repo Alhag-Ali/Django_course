@@ -1,0 +1,7 @@
+حاول تستخدم دائما البيئة الافتراضية 
+python -m venv my_env
+source my_env/Scripts/activate
+py manage runserver
+
+بالتوفيق
+احذف البرنامج
